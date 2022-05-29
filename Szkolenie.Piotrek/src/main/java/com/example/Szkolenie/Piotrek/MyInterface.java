@@ -1,5 +1,7 @@
 package com.example.Szkolenie.Piotrek;
 
 public class MyInterface {
-    public boolean sayHello;
+    public String HelloMyInterface(){
+        return "HelloMyInterface !";
+    }
 }
